@@ -1,0 +1,13 @@
+{
+  "name": "@mwp/mwp-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "typings": "mwp-util.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wy <631824375@qq.com>",
+  "license": "MIT"
+}
